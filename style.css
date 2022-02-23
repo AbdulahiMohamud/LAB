@@ -1,0 +1,28 @@
+body {
+    background-color :aqua;
+}
+header{
+    float: left;
+    margin-left: 20px;
+    margin-right: 35px;
+    color:tomato;
+    text-shadow: 25px 25px 25px #000066  ;
+
+}
+nav li{
+    list-style: none;
+    
+}
+
+p{
+    color: hsl(240, 100%, 20%) ;
+
+}
+
+
+
+footer h4{
+   color:dimgrey;
+    
+
+}
