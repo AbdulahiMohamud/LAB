@@ -9,6 +9,10 @@ header{
     text-shadow: 25px 25px 25px #000066  ;
 
 }
+h2{
+    color: darkred;
+    text-shadow: 25px 25px 25px black ;
+}
 nav li{
     list-style: none;
     
