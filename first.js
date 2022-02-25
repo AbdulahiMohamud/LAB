@@ -58,7 +58,7 @@ function guessingGame() {
             document.write("CHAMP");
             break;
         }   else if (userGuess < rightAnswer) {
-            userGuess = prompt();
+            userGuess = prompt("WRONG THE NUMBER IS HIGHER");
         }   else if (userGuess > rightAnswer) {
             userGuess = prompt("WRONG THE NUMBER IS LOWER");
         }
